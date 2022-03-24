@@ -17,6 +17,9 @@ use App\Http\Controllers\contactcontroller;
 */
 
 
+Route::get('/', function () {
+    return view('admin.index');
+});
 
 Route::get('/index',[indexcontroller::class,'index']);
 Route::get('/products',[productscontroller::class,'index']);
