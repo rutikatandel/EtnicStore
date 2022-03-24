@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\indexcontroller;
+use App\Http\Controllers\productscontroller;
+use App\Http\Controllers\contactcontroller;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,6 +16,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('user.index');
+// });
+
+Route::get('/index',[indexcontroller::class,'index']);
+Route::get('/products',[productscontroller::class,'index']);
+Route::get('/contact',[contactcontroller::class,'index']);
+
+
