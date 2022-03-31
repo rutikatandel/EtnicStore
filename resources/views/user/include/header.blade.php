@@ -7,6 +7,7 @@
 <script src="{{ asset('user/js/jquery.min.js') }}"></script>
 <!-- Custom Theme files -->
 <link href="{{ asset('user/css/style.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ asset('user/css/component.css') }}" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -183,5 +184,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	    <!--/.navbar-collapse-->
 	</nav>
 	<!--/.navbar-->
+</div>
 </div>
 </div>
