@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class billcontroller extends Controller
+class registercontroller extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,7 +13,7 @@ class billcontroller extends Controller
      */
     public function index()
     {
-        return view('user.bill');
+        return view('user.register');
     }
 
     /**

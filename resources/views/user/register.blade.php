@@ -9,7 +9,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="registration-form">
 	<div class="container">
 	<div class="dreamcrub">
-			   	 <ul class="breadcrumbs">
+			   	 <!-- <ul class="breadcrumbs">
                     <li class="home">
                        <a href="index" title="Go to Home Page">Home</a>&nbsp;
                        <span>&gt;</span>
@@ -17,7 +17,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <li class="women">
                        Registration
                     </li>
-                </ul>
+                </ul> -->
                 <ul class="previous">
                 	<li><a href="index">Back to Previous Page</a></li>
                 </ul>

@@ -30,13 +30,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class="header-top-left">
 					<ul>
-						<li><a href="account.html"><span class="glyphicon glyphicon-user"> </span>Login</a></li>
-						<li><a href="register.html"><span class="glyphicon glyphicon-lock"> </span>Create an Account</a></li>			
+						<li><a href="account"><span class="glyphicon glyphicon-user"> </span>Login</a></li>
+						<li><a href="register"><span class="glyphicon glyphicon-lock"> </span>Create an Account</a></li>			
 					</ul>
 				</div>
 				<div class="header-right">
 						<div class="cart box_1">
-							<a href="checkout.html">
+							<a href="cart">
 								<h3> <span class="simpleCart_total"> $0.00 </span> (<span id="simpleCart_quantity" class="simpleCart_quantity"> 0 </span>)<img src="{{ asset('user/images/bag.png') }}" alt=""></h3>
 							</a>	
 							<p><a href="javascript:;" class="simpleCart_empty">Empty cart</a></p>

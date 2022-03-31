@@ -61,7 +61,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="clearfix"> </div>
 </div>
 	<div class="shop">
-		<a href="single.html">SHOP COLLECTION NOW</a>
+		<a href="single">SHOP COLLECTION NOW</a>
 	</div>
 	</div>
 		</div>
@@ -93,75 +93,75 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h3 class="head text-center">Latest Products</h3>
 				</header>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p1.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p1.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">Sed ut perspiciatis</a>
+						<a class="product_name" href="single">Sed ut perspiciatis</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$329</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p2.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p2.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">great explorer</a>
+						<a class="product_name" href="single">great explorer</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$599.8</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p3.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p3.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">similique sunt</a>
+						<a class="product_name" href="single">similique sunt</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$359.6</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p4.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p4.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">shrinking </a>
+						<a class="product_name" href="single">shrinking </a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$649.99</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p5.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p5.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">perfectly simple</a>
+						<a class="product_name" href="single">perfectly simple</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$750</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p6.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p6.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">equal blame</a>
+						<a class="product_name" href="single">equal blame</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$295.59</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p7.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p7.jpg') }}" alt="" /></a>
 						<div class="mask">
 							<a href="single.html">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">Neque porro</a>
+						<a class="product_name" href="single">Neque porro</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$380</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p8.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p8.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">perfectly simple</a>
+						<a class="product_name" href="single">perfectly simple</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$540.6</span></a></p>
 					</div>
 					<div class="col-md-4 product simpleCart_shelfItem text-center">
-						<a href="single.html"><img src="{{ asset('user/images/p9.jpg') }}" alt="" /></a>
+						<a href="single"><img src="{{ asset('user/images/p9.jpg') }}" alt="" /></a>
 						<div class="mask">
-							<a href="single.html">Quick View</a>
+							<a href="single">Quick View</a>
 						</div>
-						<a class="product_name" href="single.html">praising pain</a>
+						<a class="product_name" href="single">praising pain</a>
 						<p><a class="item_add" href="#"><i></i> <span class="item_price">$229.5</span></a></p>
 					</div>
 					<div class="clearfix"></div>
@@ -173,33 +173,33 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="container">
 			<h3 class="like text-center">Featured Collection</h3>        			
 				     <ul id="flexiselDemo3">
-						<li><a href="single.html"><img src="{{ asset('user/images/l1.jpg') }}" class="img-responsive" alt="" /></a>
+						<li><a href="single"><img src="{{ asset('user/images/l1.jpg') }}" class="img-responsive" alt="" /></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">perfectly simple</a>
+							<a class="like_name" href="single">perfectly simple</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$759</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l2.jpg') }}" class="img-responsive" alt="" /></a>						
+						<li><a href="single"><img src="{{ asset('user/images/l2.jpg') }}" class="img-responsive" alt="" /></a>						
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">praising pain</a>
+							<a class="like_name" href="single">praising pain</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$699</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l3.jpg') }}" class="img-responsive" alt="" /></a>
+						<li><a href="single"><img src="{{ asset('user/images/l3.jpg') }}" class="img-responsive" alt="" /></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">Neque porro</a>
+							<a class="like_name" href="single">Neque porro</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$329</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l4.jpg') }}" class="img-responsive" alt="" /></a>
+						<li><a href="single"><img src="{{ asset('user/images/l4.jpg') }}" class="img-responsive" alt="" /></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">equal blame</a>
+							<a class="like_name" href="single">equal blame</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$499</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l5.jpg') }}" class="img-responsive" alt="" /></a>
+						<li><a href="single"><img src="{{ asset('user/images/l5.jpg') }}" class="img-responsive" alt="" /></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">perfectly simple</a>
+							<a class="like_name" href="single">perfectly simple</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$649</span></a></p>
 							</div>
 						</li>

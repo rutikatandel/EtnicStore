@@ -10,7 +10,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 		<div class="login-page">
 			    <div class="dreamcrub">
-			   	 <ul class="breadcrumbs">
+			   	<!-- <ul class="breadcrumbs">
                     <li class="home">
                        <a href="index" title="Go to Home Page">Home</a>&nbsp;
                        <span>&gt;</span>
@@ -18,7 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <li class="women">
                        Login
                     </li>
-                </ul>
+                </ul> -->
                 <ul class="previous">
                 	<li><a href="index">Back to Previous Page</a></li>
                 </ul>
@@ -28,7 +28,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			   <div class="col-md-6 login-left wow fadeInLeft" data-wow-delay="0.4s">
 			  	 <h2>NEW CUSTOMERS</h2>
 				 <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
-				 <a class="acount-btn" href="register.html">Create an Account</a>
+				 <a class="acount-btn" href="register">Create an Account</a>
 			   </div>
 			   <div class="col-md-6 login-right wow fadeInRight" data-wow-delay="0.4s">
 			  	<h3>REGISTERED CUSTOMERS</h3>

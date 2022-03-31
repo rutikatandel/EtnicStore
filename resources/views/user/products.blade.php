@@ -19,7 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="">Dress</a></li>
 						<li><a href="">Shorts</a></li>
 						<li><a href="#">Shirts</a></li>
-						<li><a href="register.html">Register</a></li>
+						<li><a href="register">Register</a></li>
 					</ul>
 				</div>
 				<div class="latest-bis">
@@ -56,16 +56,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<div class="new-product">
 				<div class="new-product-top">
-					<ul class="product-top-list">
+					<!-- <ul class="product-top-list">
 						<li><a href="index">Home</a>&nbsp;<span>&gt;</span></li>
 						<li><span class="act">Best Sales</span>&nbsp;</li>
-					</ul>
+					</ul> -->
 					<p class="back"><a href="index">Back to Previous</a></p>
 					<div class="clearfix"></div>
 				</div>
 				<div class="mens-toolbar">
                  <div class="sort">
-               	   <div class="sort-by">
+               	   <!-- <div class="sort-by">
 			            <label>Sort By</label>
 			            <select>
 			                            <option value="">
@@ -76,7 +76,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			                    Price                </option>
 			            </select>
 			            <a href=""><img src="{{ asset('user/images/arrow2.gif') }}" alt="" class="v-middle"></a>
-	                   </div>
+	                   </div> -->
 	    		     </div>
 		    	        <ul class="women_pagenation">
 					     <li>Page:</li>
@@ -106,7 +106,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="clearfix"></div>
 					<ul>
 					  <li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 							 <div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -133,7 +133,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 							  <div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -160,7 +160,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -187,7 +187,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -214,7 +214,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -241,7 +241,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -268,7 +268,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -295,7 +295,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -322,7 +322,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</li>
 						<li>
-							<a class="cbp-vm-image" href="single.html">
+							<a class="cbp-vm-image" href="single">
 								<div class="simpleCart_shelfItem">
 								<div class="view view-first">
 					   		  <div class="inner_content clearfix">
@@ -362,33 +362,33 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="container">
 			<h3 class="like text-center">Featured Collection</h3>        			
 				     <ul id="flexiselDemo3">
-						<li><a href="single.html"><img src="{{ asset('user/images/l1.jpg') }}" class="img-responsive"/></a>
+						<li><a href="single"><img src="{{ asset('user/images/l1.jpg') }}" class="img-responsive"/></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">Perfectly simple</a>
+							<a class="like_name" href="single">Perfectly simple</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$759</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l2.jpg') }}" class="img-responsive"/></a>						
+						<li><a href="single"><img src="{{ asset('user/images/l2.jpg') }}" class="img-responsive"/></a>						
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">Praising pain</a>
+							<a class="like_name" href="single">Praising pain</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$699</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l3.jpg') }}" class="img-responsive"/></a>
+						<li><a href="single"><img src="{{ asset('user/images/l3.jpg') }}" class="img-responsive"/></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">Neque porro</a>
+							<a class="like_name" href="single">Neque porro</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$329</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l4.jpg') }}" class="img-responsive"/></a>
+						<li><a href="single"><img src="{{ asset('user/images/l4.jpg') }}" class="img-responsive"/></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">Equal blame</a>
+							<a class="like_name" href="single">Equal blame</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$499</span></a></p>
 							</div>
 						</li>
-						<li><a href="single.html"><img src="{{ asset('user/images/l5.jpg') }}" class="img-responsive"/></a>
+						<li><a href="single"><img src="{{ asset('user/images/l5.jpg') }}" class="img-responsive"/></a>
 							<div class="product liked-product simpleCart_shelfItem">
-							<a class="like_name" href="single.html">Perfectly simple</a>
+							<a class="like_name" href="single">Perfectly simple</a>
 							<p><a class="item_add" href="#"><i></i> <span class=" item_price">$649</span></a></p>
 							</div>
 						</li>
@@ -424,4 +424,4 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				   </div>
 				   </div>
 		<!-- content-section-ends-here -->
-@include('user.include.footer')s
+@include('user.include.footer')
